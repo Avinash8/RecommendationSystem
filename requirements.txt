@@ -1,0 +1,7 @@
+numpy
+sklearn
+pandas
+mlxtend
+joblib
+flask
+requests
